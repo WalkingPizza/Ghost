@@ -61,7 +61,7 @@
             "contentTypes": ["application/zip", "application/x-zip-compressed", "application/octet-stream"]
         },
         "redirects": {
-            "extensions": [".json", ".yaml"],
+            "extensions": [".json", ".yaml", ".yml"],
             "contentTypes": ["text/plain", "text/yaml", "application/octet-stream", "application/json", "application/yaml", "application/x-yaml"]
         },
         "routes": {
